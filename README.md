@@ -1,11 +1,52 @@
-<h1 align="center">Всем привет!:wave: Я Христина - начинающий аналитик данных:innocent:</h1>
+<div id="header" align="center">
+  <h1>Всем привет!:wave: Меня зовут Христина:herb: </h1>
+  <h3><h3>
+    
+ </div>
+ <div id="badges" align="center">  
+ :dart: Моя главная цель - работать в области анализа данных в команде единомышленников.
+</div>
 
-<h3 align="center"> Представляю вашему вниманию портфолию проектов, выполненных в рамках пройденного курса по Анализу данных от Karpov.cource. Также в репозитории хранятся проекты, выполненные мной самостоятельно на основе данных, взятых в сайта kaggle.com </h3>
+</div>
+
+- Я постоянно обучаюсь, оттачивая свои навыки и изучая новые инструменты. 
+
+- Прошла несколько онлайн-курсов, освоив `Python`, `SQL`, математическую статистику. Визуализирую данные с помощью `Tableu`, `Redash`, использую инструменты `GIT` для управления проектами. 
+
+- В моем портфолио вы найдете проекты, выполненные мной в рамках пройденных курсов, а также самостоятельные работы, основанные на данных из открытых источников.
+    </h3>
+ </div>
+
+## :hammer_and_wrench: Языки и инструменты:
+</div>
+ <div id="badges" align="center">  
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 
-<p align="left">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
+</div>
 
-<h3 align="left">Основные Хард-скилы:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="80" height="40"/> </a> </p>
+  
+## :mailbox_with_no_mail: Связаться со мной:
+
+ </div> 
+<div id="badges" align="center">   
+ <a href="https://t.me/hristiiiina">
+  <img src="https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:hristiiina@bk.ru">
+  <img src="https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail"/>
+  </a>
+
 
